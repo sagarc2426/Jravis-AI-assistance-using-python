@@ -1,6 +1,6 @@
 import cohere
 
-co = cohere.ClientV2("uaG0BXXSDJKihtVyDrBAqQJXtlJWI3a9UCiNd1mv")
+co = cohere.ClientV2("<ADD YOUR API KEY>")
 response = co.chat(
     model="command-r-plus", 
     messages=[

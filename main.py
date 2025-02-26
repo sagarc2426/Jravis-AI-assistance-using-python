@@ -8,7 +8,7 @@ import pygame
 import os
 import cohere
 
-newsapi = "cbbaade516eb41599eb3a854c2d880a2"
+newsapi = "<ADD YOUR API KEY>"
 pygame.mixer.init()
 import pygame
 import os

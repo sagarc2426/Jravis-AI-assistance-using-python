@@ -1,0 +1,10 @@
+speechrecognition
+webbrowser
+pyttsx3
+requests
+gtts
+pygame
+cohere
+
+run this command in the terminal
+pip freeze > requirements.txt
